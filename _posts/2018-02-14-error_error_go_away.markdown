@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**Error, Error, Go Away!**"
-date:       2018-02-14 17:01:25 +0000
+title:      "Error, Error, Go Away!"
+date:       2018-02-14 12:01:26 -0500
 permalink:  error_error_go_away
 ---
 
